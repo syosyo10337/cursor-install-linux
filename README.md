@@ -5,3 +5,5 @@ Linuxで毎回DLしてきたcursorアプリケーションを手元のdesktop en
 
 # how to use it
 script.shを手元の環境で実行する。
+ `/usr/local/bin/cursor-install`とかにおいてます。
+ 
